@@ -32,7 +32,7 @@ Research Entry is a research paper management system which leads the partnership
 	- jQuery
 
 - Databases
-	- MySQL
+	- [MySQL](https://www.mysql.com/)
   
 #### Interfaces
 
