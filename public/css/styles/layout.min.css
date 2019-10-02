@@ -1,0 +1,159 @@
+.navbar {
+    padding-left: 35px;
+    padding-right: 35px;
+   /* padding-top: 8px;
+    height: 70px; */
+  }
+  
+  .navbar-custom {
+    color: #FFFFFF;
+    background-color: #000000;
+  }
+
+  #navbar-menu {
+    font-size: 15px;
+    opacity: 1;
+  }
+
+  #re-contact {
+    margin: 0px;
+    padding: 0px;
+    height: 280px;
+    color: #CCCCCC;
+    background: #000000;
+  } 
+
+  .footer-distributed{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+  }
+
+  .footer-distributed .footer-company-logo {
+    text-align: center;
+  }
+
+  #company-name {
+    padding-bottom: 10px;
+    font-size: 30px;
+    letter-spacing: 6px;
+  }
+
+  #logo {
+    width: 160px;
+    height: 160px;
+  }
+
+  .footer-distributed h3{
+    color:  #ffffff;
+    font: normal 36px;
+    margin: 0;
+  }
+
+  .footer-distributed .footer-company-links {
+    font-size: 13px;
+  }
+
+  .footer-distributed .footer-links{
+    color:  #ffffff;
+    margin: 20px 0 12px;
+    padding: 0;
+  }
+
+  .footer-distributed .footer-links a{
+    display:inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color:  inherit;
+  }
+
+  .footer-distributed .footer-company-contacts i{
+    background-color:  #33383b;
+    color: #ffffff;
+    font-size: 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+  }
+
+  .footer-distributed .footer-company-contacts i.fa-envelope{
+    font-size: 17px;
+    line-height: 38px;
+  }
+
+  .footer-distributed .footer-company-contacts p{
+    display: inline-block;
+    color: #ffffff;
+    vertical-align: middle;
+    margin:0;
+  }
+
+  .footer-distributed .footer-company-contacts p span{
+    display:block;
+    font-weight: normal;
+    font-size:14px;
+    line-height:2;
+  }
+
+  .footer-distributed .footer-company-contacts p a{
+    color:  #5383d3;
+    text-decoration: none;;
+  }
+
+  .footer-distributed .footer-company-about{
+    line-height: 20px;
+    color:  #92999f;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+  }
+
+  .footer-distributed .footer-company-about span{
+    display: block;
+    color:  #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+  .footer-distributed .footer-icons{
+    margin-top: 15px;
+  }
+
+  .footer-distributed .footer-icons a{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color:  #33383b;
+    border-radius: 2px;
+
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+
+    margin-right: 3px;
+    margin-bottom: 5px;
+  }
+
+  .company-copyright {
+    padding: 0px;
+    margin: 0px;
+    padding-top: 5px;
+    font-size: 12px;
+    height: 40px;
+    width: 100%;
+    background: #000000;
+    text-align: center;
+  }

@@ -1,0 +1,47 @@
+body {
+  /*background: #d6d3d6;*/
+  background-image: url(image/contact/background.jpg);
+}
+
+.contact-guide {
+  max-width: 700px;
+  padding-left: 30px;
+  text-align: center;
+}
+
+#contact-us {
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-size: 13px; 
+  position: relative;
+  background: #FFFFFF;
+  width: 750px;
+  max-height: 800px;
+  border: none;
+  -webkit-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.75);
+  /*-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);*/
+  opacity: 0.8; 
+  z-index: 2; 
+  color: #000000;
+}
+
+#contact-form {
+  margin-top: 40px;
+  max-width: 600px;
+  max-height: 600px;
+  margin-bottom: 30px;
+}
+
+#breadcrumb-contact {
+  width: 1280px;
+  padding-top: 75px;
+  opacity: 0.8;
+  z-index: 2;
+  color: #000000;
+}
