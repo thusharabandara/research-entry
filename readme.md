@@ -23,14 +23,11 @@ Research Entry is a research paper management system which leads the partnership
 	- PHP
 	- Javascript
 	- AJAX
-
 - Frameworks
 	- [Laravel (PHP framework)](https://laravel.com/)
 	- Bootstrap	
-
 - Libraries
 	- jQuery
-
 - Databases
 	- [MySQL](https://www.mysql.com/)
   
