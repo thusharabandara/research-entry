@@ -1,37 +1,22 @@
-### Research Entry: A Research Paper Management System
+# Research Entry
 
-Research Entry is a research paper management system which leads the partnership between academy and industry to explore and develop new technologies and techniques to improve the manageability, scalability, security, reliability, longevity, and performance of storage systems
+Research Entry is a research paper management system designed to promote collaboration and knowledge sharing between researchers across diverse fields. In developing Research Entry, our team focused on integrating novel technologies and techniques to enhance the manageability, scalability, security, reliability, longevity, and performance of storage systems. This involved carefully considering the design and architecture of the system to ensure that it could handle large volumes of data and users while maintaining high levels of security and reliability.
 
 <img src="https://github.com/thusharabandara/research-entry/blob/master/public/image/logo/logo.png" width="200" height="200" styles="padding: 200px" />
 
-#### Key Functionalities
+## Key Functionalities:
 
-1. Easy to use
-   - Easy to satisfy research grants for people who are the beginners for the research field.
+Research Entry comes with the following key functionalities:
 
-2. Event Management functionality
-   - Yet none of the exiting research paper management systems provide event management functionality. Most of the time researchers miss interesting and useful events organized by various institutions, universities in Sri Lanka. The proposed system helps researchers to engage and register for events related to their interests.
-    
-3. News Management functionality
-   - Most of the times researchers want to keep in touch with latest news related to their interests.
+* **Easy to Use:** Research Entry has been designed with a user-friendly interface, making it easy for researchers and industry professionals to access and manage research papers, news, and events.
+* **Event Management:** The system includes an event management functionality that allows users to create, manage, and track events related to their research fields.
+* **News Management:** Research Entry also provides a news management functionality that enables users to stay up-to-date with the latest developments in their research fields.
 
-#### Built With
+## Technologies Used:
 
-- HTML
-- CSS
-- Programming Languages
-	- PHP
-	- Javascript
-	- AJAX
-- Frameworks
-	- [Laravel (PHP framework)](https://laravel.com/)
-	- [Bootstrap](https://getbootstrap.com/)	
-- Libraries
-	- jQuery
-- Databases
-	- [MySQL](https://www.mysql.com/)
+Research Entry is built using a range of modern web technologies (HTML, CSS, Javascript, AJAX, and jQuery) and frameworks, including PHP Laravel, to provide a robust and scalable system architecture. We also leveraged advanced security techniques, such as encryption and authentication, to ensure that user data remained safe and secure.
   
-#### Interfaces
+## Interfaces:
 
 <img src="https://github.com/thusharabandara/research-entry/blob/master/public/image/screenshots/Capture2.PNG" />
 
