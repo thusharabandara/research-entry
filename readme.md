@@ -5,7 +5,7 @@
         <p>Research Entry is a research paper management system designed to promote collaboration and knowledge sharing between researchers across diverse fields. In developing Research Entry, our team focused on integrating novel technologies and techniques to enhance the manageability, scalability, security, reliability, longevity, and performance of storage systems. This involved carefully considering the design and architecture of the system to ensure that it could handle large volumes of data and users while maintaining high levels of security and reliability.</p>
     </div>
     <div style="flex-basis:30%;">
-        <img src="./public/image/logo/logo.png" width="180" height="180" styles="padding: 200px" />
+        <img src="./public/image/logo/logo.png" width="180" height="180"/>
     </div>
 </div>
 
